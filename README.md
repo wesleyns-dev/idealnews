@@ -1,6 +1,6 @@
-# 🌐 Ideal Conecta
+# 🌐 Ideal News
 
-O **Ideal Conecta** é uma plataforma web desenvolvida para centralizar informações, eventos comunitários, cultura e a história do distrito de Ideal (Aracoiaba - CE). O objetivo principal é conectar a comunidade e manter todos informados sobre torneios regionais, programações e notícias locais.
+O **Ideal News** é uma plataforma web desenvolvida para centralizar informações, eventos comunitários, cultura e a história do distrito de Ideal (Aracoiaba - CE). O objetivo principal é conectar a comunidade e manter todos informados sobre torneios regionais, programações e notícias locais.
 
 🚀 **Acesse o site ao vivo:** [conectaidealweb.vercel.app](https://conectaidealweb.vercel.app/)
 
